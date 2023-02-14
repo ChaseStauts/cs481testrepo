@@ -1,5 +1,5 @@
-# Totalled Senior Design Project
-
+# Totalled Senior Design Project 
+[![CI][([https://github.com/cs481-ekh/f22-gneiss/actions/workflows/ci.yml/badge.svg)](https://github.com/cs481-ekh/f22-gneiss/actions/workflows/ci.yml](https://github.com/ChaseStauts/cs481testrepo/actions/workflows/ci.yml)]
 ---
 
 ## Team
