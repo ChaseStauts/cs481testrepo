@@ -15,12 +15,15 @@ Totalled uses an Apache POI and Compose Multiplatform in order to create and mod
 ![Test image](images/Screen1.jpg)
 
 *Select Expense Log Input*
-(U+000A)
-(U+000A)
+
 ![Test image](images/Screen2.jpg)
 
 *Optional Expense Log Input*
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 ![Test image](images/Screen3.jpg)
 
