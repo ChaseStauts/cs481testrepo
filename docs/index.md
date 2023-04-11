@@ -13,24 +13,30 @@ Totalled uses an Apache POI and Compose Multiplatform in order to create and mod
 
 
 ![Test image](images/Screen1.jpg)
+
 *Select Expense Log Input*
 
 
 ![Test image](images/Screen2.jpg)
+
 *Optional Expense Log Input*
 
 
 ![Test image](images/Screen3.jpg)
+
 *Select Output Directory*
 
 
 ![Test image](images/Screen4.jpg)
+
 *Optional Material Invoice Input*
 
 
 ![Test image](images/Screen5.jpg)
+
 *Confirmation Detailing Screen*
 
 
 ![Test image](images/Screen6.jpg)
+
 *Completion Response*
